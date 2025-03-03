@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimarisi)",
+      "text": "MVC Mimari ile nasıl bileşenleri yönetirim?",
+      "date": "2023-09-11T19:13:21.364"
+    },
+    {
+      "id": "2",
+      "user": "Ayşe",
+      "title": "Redux vs Context API",
+      "text": "State yönetimi için Redux mı Context API mi tercih edilmeli?",
+      "date": "2023-10-02T14:25:10.564"
+    },
+    {
+      "id": "3",
+      "user": "Ahmet",
+      "title": "JavaScript ES6+ Yenilikleri",
+      "text": "ES6 ile gelen özellikler nelerdir ve nasıl kullanılır?",
+      "date": "2023-11-15T09:45:30.987"
+    },
+    {
+      "id": "4",
+      "user": "Zeynep",
+      "title": "Tailwind CSS vs Bootstrap",
+      "text": "Hangi CSS framework daha iyi performans sağlar?",
+      "date": "2023-12-01T18:30:22.125"
+    },
+    {
+      "id": "5",
+      "user": "Emre",
+      "title": "React Hooks Kullanımı",
+      "text": "useState ve useEffect hooklarını nasıl verimli kullanabilirim?",
+      "date": "2024-01-10T11:12:45.764"
+    },
+    {
+      "id": "6",
+      "user": "Fatma",
+      "title": "Next.js Server Components",
+      "text": "Server Components ile daha hızlı ve verimli uygulamalar geliştirme",
+      "date": "2024-02-05T20:17:35.321"
+    },
+    {
+      "id": "7",
+      "user": "Burak",
+      "title": "Node.js ve Express.js API Geliştirme",
+      "text": "RESTful API geliştirme sürecinde dikkat edilmesi gerekenler",
+      "date": "2024-02-20T07:55:14.654"
+    },
+    {
+      "id": "8",
+      "user": "Selin",
+      "title": "MongoDB ile CRUD İşlemleri",
+      "text": "MongoDB ile veri ekleme, silme, güncelleme ve okuma nasıl yapılır?",
+      "date": "2024-03-12T15:40:50.875"
+    },
+    {
+      "id": "9",
+      "user": "Kerem",
+      "title": "GraphQL ve REST API Karşılaştırması",
+      "text": "GraphQL ve REST API arasındaki farklar ve kullanım senaryoları",
+      "date": "2024-04-01T10:05:29.214"
+    },
+    {
+      "id": "10",
+      "user": "Elif",
+      "title": "Docker ve Kubernetes Temelleri",
+      "text": "Konteyner teknolojileri ile DevOps süreçleri nasıl iyileştirilir?",
+      "date": "2024-04-20T16:22:11.908"
+    }
+  ]
+}
