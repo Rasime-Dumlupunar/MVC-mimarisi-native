@@ -32,3 +32,6 @@ Features
 📄 View the list of submitted posts
 ⚡ API integration with JSON-Server
 🔥 Modular and maintainable structure for a smoother development process.
+
+
+![](https://github.com/Rasime-Dumlupunar/MVC-mimarisi-native/blob/main/mvc.gif)
